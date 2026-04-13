@@ -1,0 +1,40 @@
+{
+  "emotions": [
+    "happy",
+    "sad"
+  ],
+  "num_classes": 2,
+  "input_size": [
+    1,
+    48,
+    48
+  ],
+  "normalization": {
+    "mean": [
+      0.5
+    ],
+    "std": [
+      0.5
+    ]
+  },
+  "model_architecture": "EmotionCNN",
+  "export_date": "2026-04-01 13:53:19",
+  "available_formats": [
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pth",
+    "pt"
+  ]
+}
