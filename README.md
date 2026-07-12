@@ -64,7 +64,7 @@ The architecture was tuned specifically for the reduced-complexity binary classi
 ## How To Run
 
 1. Clone the Repository
-   git clone
+   git clone `https://github.com/faisalkh523/Emotion_Recognition_Using_Computer_Vision-CNN.git`
 
 2. Install dependencies
    Pip install `write name of the library`
