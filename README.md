@@ -44,14 +44,13 @@ A Convolutional Neural Network built from scratch in PyTorch, consisting of stac
 The architecture was tuned specifically for the reduced-complexity binary classification task (Happy vs. Sad).
 
 ## Table 3: Model Performance Metrics Table
-| Metric | Score |
-|---------|------|
-| Accuracy | 91.41% 
-| Misclassification | 8.59% |
-| Precision | 94% |
-| Recall | 90.9% |
-| F1-Score | 92.4% |
-| Specificit | 92% | 
+| Metric | Validation (Public Test) | Test (PrivateTest) |
+|---------|------|------------|
+| Accuracy | 91.41% | 90.09% |
+| Precision | 94.0% | 93.3% |
+| Recall | 90.9% | 89.9% |
+| F1-Score | 92.4% | 91.5% |
+| Specificity | 92.0% | 	90.4% | 
 
 <img width="480" height="400" alt="image" src="https://github.com/user-attachments/assets/b5533db3-8e08-488f-9db1-d85418afb704" />
 
